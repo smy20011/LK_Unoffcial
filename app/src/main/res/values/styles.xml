@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppThemeBase" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+    </style>
+
+    <style name="AppTheme" parent="AppThemeBase"/>
+
+    <style name="ListStyle">
+        <item name="android:padding">@dimen/list_padding</item>
+    </style>
+</resources>
